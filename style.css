@@ -37,17 +37,14 @@ a{
 main p{
  background-color: lightgreen; 
  border-radius: 10px;  
+ height:70%;
 }
 footer
 {
     background-color:fuchsia;
 }
 
-main p{
- background-color: lightgreen; 
- border-radius: 10px;  
- height:70%;
-}
+
 footer p{
     margin:10px;
     background-color: white;
