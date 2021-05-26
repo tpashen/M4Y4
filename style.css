@@ -33,10 +33,10 @@ a{
      background-color:white;
      text-decoration: none;
 }
-main{
+main p{
     background-color:white; 
 }
-main p{
+main{
  background-color: lightgreen; 
  border-radius: 10px;  
  height:200px;
