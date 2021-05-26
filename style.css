@@ -40,6 +40,11 @@ main{
     margin:30px;
     padding: 30px;
 }
+main img{
+    height:50px;
+    width:50px;
+    border-radius: 10px;  
+}
 footer
 {
     background-color:fuchsia;
