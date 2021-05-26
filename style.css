@@ -40,13 +40,14 @@ p
 main{
  background-color: lightgreen; 
  border-radius: 10px;  
- height:150px;
+ height:200px;
     margin:30px;
     padding: 30px;
 }
 footer
 {
     background-color:fuchsia;
+     height:100px;
 }
 
 
