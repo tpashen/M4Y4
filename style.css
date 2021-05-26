@@ -27,16 +27,12 @@ nav,a{
     border-radius: 10px;
     margin:30px;
     padding: 30px;
-    border-radius: 10px;
 }
 a{
      background-color:white;
      text-decoration: none;
 }
-p
-{
-     background-color:white;
-}
+
 main{
  background-color: lightgreen; 
  border-radius: 10px;  
