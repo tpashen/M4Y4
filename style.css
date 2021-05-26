@@ -33,7 +33,9 @@ a{
      background-color:white;
      text-decoration: none;
 }
-
+main{
+    background-color: white; 
+}
 main p{
  background-color: lightgreen; 
  border-radius: 10px;  
